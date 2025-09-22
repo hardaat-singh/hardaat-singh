@@ -17,7 +17,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hardaat-singh&show_icons=true&locale=en" alt="hardaat-singh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardaat-singh&" alt="hardaat-singh" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hardaat-singh&show_icons=true&locale=en&layout=compact" alt="hardaat-singh" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardaat-singh" alt="hardaat-singh" /></a></p>
 
 
 ###
